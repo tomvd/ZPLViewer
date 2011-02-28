@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ZPLViewer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("RedPrairie (Belgium) NV")]
+[assembly: AssemblyCompany("Tom Van Dyck")]
 [assembly: AssemblyProduct("ZPLViewer")]
-[assembly: AssemblyCopyright("Copyright © RedPrairie (Belgium) NV 2010")]
+[assembly: AssemblyCopyright("Open Source")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
